@@ -1,5 +1,7 @@
 ## Kotlin 플레이그라운드의 코루틴 소개
 
+마지막까지 학습 완료
+
 ```import kotlinx.coroutines.*
 
 fun main() {
@@ -16,5 +18,5 @@ fun main() {
         }
         println("Loading...")
     }
-```}
+}```
 
